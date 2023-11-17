@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm a software engineer in Madagascar ⚪🔴🟢. Currently, I'm working on a personal project with my <b>#TEAM<b/>, we are aiming to make a game. I enjoy coding for fun😋 and making toy projects🎈.
+I'm a software engineer in Madagascar ⚪🔴🟢. Currently, I'm working on a personal project with my <b>#TEAM</b>, we are aiming to make a game. I enjoy coding for fun😋 and making toy projects🎈.
 
 <h3>🔍 Where to find me</h3>
 <p><a href="https://www.fbi.gov" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white"</p>
